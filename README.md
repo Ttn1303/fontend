@@ -1,4 +1,4 @@
-# Qan ly sua xe may
+# Quan ly sua xe may
 ## Setup env
 
 First, run the development server:
